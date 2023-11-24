@@ -7,9 +7,19 @@
   - [osTicket: Prerequisites and Installation](https://github.com/FLATOPA/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/FLATOPA/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/FLATOPA/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/FLATOPA/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/FLATOPA/azure-network-protocols)
+Microsoft Azure
+  -https://github.com/FLATOPA/azure-portal
+  -https://github.com/FLATOPA/vm-network
+
+Active Directory
+
+https://github.com/FLATOPA/active-directory
+https://github.com/FLATOPA/dns
+https://github.com/FLATOPA/network-fileshare
+
+Virtual Private Networks (VPN)
+
+  -https://github.com/FLATOPA/vpn
 
 <h2>🤳Connect with me:</h2> [linkedin]: https://www.linkedin.com/in/farouk-l-581a61252/
 
