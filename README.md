@@ -1,5 +1,5 @@
 # IT-Projects
-<h1>Hi, I'm Farouk Latopa, an <a href="https://www.linkedin.com/in/farouk-l-581a61252/">
+<h1>Hi, I'm Farouk Latopa <a href="https://www.linkedin.com/in/farouk-l-581a61252/">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,6 +11,5 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/FLATOPA/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/FLATOPA/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2> [linkedin]: https://www.linkedin.com/in/farouk-l-581a61252/
 
-[linkedin]: https://www.linkedin.com/in/farouk-l-581a61252/
